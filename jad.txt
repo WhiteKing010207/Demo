@@ -1,2 +1,3 @@
 Name | Roll | Course | Year
 Meherob|032|IT|2nd
+Ranar | 150 | IT |2nd
